@@ -1,5 +1,4 @@
-# A neuro-inspired computational model of life-long learning and catastrophic-interference, mimicking hippocampus novelty-based dopamine modulation
-# and lateral inhibitory plasticity
+# A neuro-inspired computational model of life-long learning and catastrophic-interference, mimicking hippocampus novelty-based dopamine modulation and lateral inhibitory plasticity
 # Pierangelo Afferni 1,∗, Federico Cascino 2, Andrea Mattera 3 and Gianluca Baldassarre 3
 # 1 Department of Engineering ”Campus Bio-Medico” University, Rome, Italy;
 # 2 Department of Genetics and Neurobiology, Julius-Maximilians Universitat Wurzburg, Wurzburg, Germany; 
