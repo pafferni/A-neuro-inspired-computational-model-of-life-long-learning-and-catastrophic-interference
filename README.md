@@ -13,7 +13,7 @@ Installation and setup procedure
 
 Before installing the code, it is necessary to setup the python environment with the required packages contained in the file packages.txt
 
-To install the code, just copy all the file and folders contained here in a folder of your choice on your computer.
+To install the code, just copy all the content (file and folders) of the folder master_code_and_data in a folder of your choice on your computer.
 
 To run the main program, go to the directory where you have installed the code and just type: python mazewalker_rem3.py
 When the panel open, just press enter and then press the "p" key.
